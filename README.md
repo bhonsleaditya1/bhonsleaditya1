@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Bhonsle
 - 👀 I’m interested in Machine Learning, Full Stack Development
-- 🌱 I’m currently learning SpringBoot & Tensorflow v2.0
+- 🌱 I’m currently learning SpringBoot, MERN Stack & Tensorflow v2.0
 - 💞️ I’m looking to collaborate on Open Source Development & Machine Learning Projects 
 <!--- 📫 How to reach me --->
 
